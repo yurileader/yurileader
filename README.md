@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
  # Yuri alves :man_technologist_medium_dark_skin_tone:
  
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yurileader)]
- (https://github.com/yurileader)
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yurileader)](https://github.com/yurileader)
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yurileader/)](https://www.linkedin.com/in/yurileader/)
  
